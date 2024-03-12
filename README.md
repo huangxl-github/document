@@ -5,3 +5,4 @@ https://www.runoob.com/markdown/md-tutorial.html
 # 文档集中营
 ## 一、文档结构
 ### 1.1 文档分类
+暂时包括 教程、操作手册两个类。以后看心情加。
